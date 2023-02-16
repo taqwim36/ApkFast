@@ -1,5 +1,5 @@
 {
-  "name": "andro",
+  "name": "ApkFast",
   "version": "2.2.4",
   "description": "Tools untuk generate aplikasi Android dari HTML",
   "bin": {
